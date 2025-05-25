@@ -9,6 +9,4 @@
 - Manipulaçoes de strings;
 - Entrada e saida de dados;
 ---
-Etc.
----
-**Confira os meus exercicios!**
+## *Confira o meu trabalho!*
