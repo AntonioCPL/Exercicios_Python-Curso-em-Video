@@ -9,4 +9,5 @@
 - Manipulaçoes de strings;
 - Entrada e saida de dados;
 ---
+### *Tambem podemos perceber ao longo do tempo que passo a ter melhores habitos, como comentar e dar nomes mais explicativos a variaveis.*
 ## *Confira o meu trabalho!*
